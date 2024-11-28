@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "image": "https://cdn.beta.qalampir.uz/uploads/zD/f_DE250cCyyP9VrsZC0fA6wJBF9XWxOM.jpg",
+        "name": "Bayrog' uchun tutgich",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an",
+        "price": 29.99
+    },
+    {
+        "id": 2,
+        "image": "https://assets.pinshape.com/uploads/image/file/49143/hand-hanger-3d-printing-49143.JPG",
+        "name": "3D Printed Lamp",
+        "description": "An innovative 3D printed lamp.",
+        "price": 49.99
+    },
+    {
+        "id": 3,
+        "image": "https://fossbytes.com/wp-content/uploads/2019/11/Highly-USeful-3d-prints.jpg",
+        "name": "3D Printed Keychain",
+        "description": "A customized 3D printed keychain.",
+        "price": 9.99
+    },
+    {
+        "id": 4,
+        "image": "https://fossbytes.com/wp-content/uploads/2019/11/Highly-USeful-3d-prints.jpg",
+        "name": "3D Printed Phone Stand",
+        "description": "A stylish and functional 3D printed phone stand.",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "image": "https://fossbytes.com/wp-content/uploads/2019/11/Highly-USeful-3d-prints.jpg",
+        "name": "3D Printed Art Piece",
+        "description": "A unique and elegant 3D printed art piece for decoration.",
+        "price": 99.99
+    }
+]

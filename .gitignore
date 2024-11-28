@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Lint and formatting
+.eslintcache
+
+# Local npm/Yarn files
+package-lock.json*
+yarn.lock
+.pnpm-debug.log
+
+# Coverage reports
+coverage/
+
+# Vue-specific files
+public/
+
+# Optional: Ignore generated files from Storybook or other tools
+.storybook-out/
