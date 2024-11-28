@@ -2,7 +2,6 @@
 node_modules/
 
 # Build output
-dist/
 build/
 
 # Local environment files
@@ -35,9 +34,6 @@ yarn.lock
 
 # Coverage reports
 coverage/
-
-# Vue-specific files
-public/
 
 # Optional: Ignore generated files from Storybook or other tools
 .storybook-out/

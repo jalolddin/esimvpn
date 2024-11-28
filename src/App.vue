@@ -1,7 +1,11 @@
 <template>
   <Navbar />
+  <div class="effect"></div>
   <div class="content">
-    <router-view/>
+    <router-view />
+  </div>
+  <div class="chatbot">
+    <img src="@/assets/icons/chatbot.svg" alt="" />
   </div>
   <Footer />
 </template>
@@ -10,12 +14,3 @@
 import Navbar from '@/components/Navbar.vue';
 import Footer from '@/components/Footer.vue';
 </script>
-
-<style lang="scss">
-.content{
-  max-width: 1184px;
-  margin: 0 auto;
-  margin-top: 6rem;
-  margin-bottom: 6rem;
-}
-</style>
